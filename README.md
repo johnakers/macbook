@@ -18,7 +18,7 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
     -- [Set up 'subl' command](http://stackoverflow.com/questions/11889484/command-subl-from-terminal-dont-work/16390622#16390622)
     -- [Tomorrow Night theme via ColorSublime](http://colorsublime.com/?q=tomorrow+night+eighties)
     -- [Adobe's Source Code Pro font](https://github.com/adobe-fonts/source-code-pro)
-9.  [rbenv via Homebrew](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x
+9.  [rbenv via Homebrew](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x)
     -- ensure your path is correct!
     -- for now, global Ruby version set to 2.2.1
 10. [install bundler](http://bundler.io/)
