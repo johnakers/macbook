@@ -23,6 +23,6 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
     -- for now, global Ruby version set to 2.2.1
 10. [install bundler](http://bundler.io/)
 11. [Slack App](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
-12. Node Version Manager (via Homebrew) -> `brew install nvm` (Note: [The documentation](https://github.com/creationix/nvm)says that Homebrew is not supported... this is wrong.
+12. Node Version Manager (via Homebrew) -> `brew install nvm` (Note: [The documentation](https://github.com/creationix/nvm)says that Homebrew is not supported... this is wrong.<br>
     -- [Add `source $(brew --prefix nvm)/nvm.sh` & `export NVM_DIR=~/.nvm` to your `.zshrc`](http://stackoverflow.com/a/27652360)
 13. Node Package Manager (via Homebrew) -> `brew install npm`
