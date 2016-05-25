@@ -1,8 +1,6 @@
 # macbook
 How I setup my 13" MacBook Air
 
-<img src="https://pbs.twimg.com/media/CjMVTB-WgAAMZwK.jpg" /> via [Archillect](https://twitter.com/archillect)
-
 This isn't 100% the order of this as I'm doing this after setup, but its more or less it. This doesn't take too long to get up and running for Ruby development. I'm adding things as I go, where relevant.
 
 1.  [Chrome](https://www.google.com/chrome/browser/desktop/index.html)<br>
