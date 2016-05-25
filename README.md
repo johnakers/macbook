@@ -1,9 +1,7 @@
 # macbook
-How I setup my 13" MacBook Air this weekend
+How I setup my 13" MacBook Air
 
-Note:
-
-This isn't 100% the order of this as I'm doing this after setup, but its more or less it. This doesn't take too long to get up and running for Ruby development.
+This isn't 100% the order of this as I'm doing this after setup, but its more or less it. This doesn't take too long to get up and running for Ruby development. I'm adding things as I go, where relevant.
 
 1.  [Chrome](https://www.google.com/chrome/browser/desktop/index.html)<br>
     -- Sign In + Gmail
@@ -26,3 +24,6 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 12. Node Version Manager (via Homebrew) -> `brew install nvm` (_Note: [The documentation](https://github.com/creationix/nvm) says that Homebrew is not supported... this is wrong._)<br>
     -- [Add `source $(brew --prefix nvm)/nvm.sh` & `export NVM_DIR=~/.nvm` to your `.zshrc`](http://stackoverflow.com/a/27652360)
 13. Node Package Manager (via Homebrew) -> `brew install npm`
+14. `tree` [via Homebrew](http://brewformulas.org/tree)
+15. Postgres via Homebrew (`brew install postgres`)<br>
+    -- Note: your DB will be stopped and started via `brew services start postgresql` & `brew servcies stop postgresql`
