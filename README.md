@@ -27,3 +27,4 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 14. `tree` [via Homebrew](http://brewformulas.org/tree)
 15. Postgres via Homebrew (`brew install postgres`)<br>
     -- Note: your DB will be stopped and started via `brew services start postgresql` & `brew servcies stop postgresql`
+16. [LOVE2D](https://love2d.org/) for 2D games in Lua & you can alias anything you want via _[this](https://love2d.org/wiki/Getting_Started#Mac_OS_X)_ documentation
