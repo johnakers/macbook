@@ -21,10 +21,10 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
     -- for now, global Ruby version set to 2.2.1
 10. [install bundler](http://bundler.io/)
 11. [Slack App](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
-12. Node Version Manager (via Homebrew) -> `brew install nvm` (_Note: [The documentation](https://github.com/creationix/nvm) says that Homebrew is not supported... this is wrong._)<br>
+12. [Node Version Manager](https://github.com/creationix/nvm) via Homebrew<br>
     -- [Add `source $(brew --prefix nvm)/nvm.sh` & `export NVM_DIR=~/.nvm` to your `.zshrc`](http://stackoverflow.com/a/27652360)
-13. Node Package Manager (via Homebrew) -> `brew install npm`
-14. `tree` [via Homebrew](http://brewformulas.org/tree)
-15. Postgres via Homebrew (`brew install postgres`)<br>
-    -- Note: your DB will be stopped and started via `brew services start postgresql` & `brew servcies stop postgresql`
-16. [LOVE2D](https://love2d.org/) for 2D games in Lua & you can alias anything you want via _[this](https://love2d.org/wiki/Getting_Started#Mac_OS_X)_ documentation
+13. [NPM](https://www.npmjs.com/) via Homebrew
+14. [`tree`](http://mama.indstate.edu/users/ice/tree/) via Homebrew
+15. [PostgreSQL](https://www.postgresql.org/) via Homebrew<br>
+    -- Note: your DB will be stopped and started via `brew services start/stop postgresql`
+16. [LÖVE2D](https://love2d.org/)
