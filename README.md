@@ -27,6 +27,10 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 14. [`tree`](http://mama.indstate.edu/users/ice/tree/) via Homebrew
 15. [PostgreSQL](https://www.postgresql.org/) via Homebrew<br>
     -- Note: your DB will be stopped and started via `brew services start/stop postgresql`
-16. [LÖVE2D](https://love2d.org/)
-17. [asciinema](https://asciinema.org/) via Homebrew
+16. ~~[LÖVE2D](https://love2d.org/)~~
+17. ~~[asciinema](https://asciinema.org/) via Homebrew~~
 18. [Giphy Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
+19. [Unity](https://unity3d.com)
+20. [Aseprite]()
+21. ~~[Fusion360]()~~
+22. [Heroku Toolit]()
