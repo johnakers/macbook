@@ -15,7 +15,7 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 8.  [Sublime Text](https://www.sublimetext.com/) (note: I bought a license a long time ago)<br>
     -- [Set up 'subl' command](http://stackoverflow.com/questions/11889484/command-subl-from-terminal-dont-work/16390622#16390622)<br>
     -- [Tomorrow Night Eighties theme via ColorSublime](http://colorsublime.com/?q=tomorrow+night+eighties)<br>
-    -- [Adobe's Source Code Pro font](https://github.com/adobe-fonts/source-code-pro)
+    -- [Adobe's Source Code Pro font](https://github.com/adobe-fonts/source-code-pro)<br>
     -- Below goes in `Preferences -> User`
 ```JS
 // Preferences
