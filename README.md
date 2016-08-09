@@ -16,6 +16,18 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
     -- [Set up 'subl' command](http://stackoverflow.com/questions/11889484/command-subl-from-terminal-dont-work/16390622#16390622)<br>
     -- [Tomorrow Night Eighties theme via ColorSublime](http://colorsublime.com/?q=tomorrow+night+eighties)<br>
     -- [Adobe's Source Code Pro font](https://github.com/adobe-fonts/source-code-pro)
+    -- Below goes in `Preferences -> User`
+```JS
+// Preferences
+{
+  "color_scheme": "Cache/ColorSublime/Tomorrow_Night_Eighties.tmTheme",
+  "font_face": "Source Code Pro",
+  "font_size": 11,
+  "save_on_focus_lost": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
+}
+```
 9.  [rbenv](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x) via Homebrew<br>
     -- ensure your `PATH` is correct!<br>
     -- for now, global Ruby version set to 2.2.1
