@@ -7,7 +7,7 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
     -- Sign In + Gmail
 - [Spectacle](https://www.spectacleapp.com/)
 - [iTerm2](https://www.iterm2.com/)<br>
-    Change font to `Source Code Pro` via `Preferences -> Profiles -> Text` (download link in #8)
+    -- Change font to `Source Code Pro` via `Preferences -> Profiles -> Text` (download link in #8)
 - [Caffiene](https://itunes.apple.com/us/app/caffeine/id411246225?mt=12)
 - [Homebrew](http://brew.sh/) (note: this requires Xcode)
 - [git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac) via Homebrew
