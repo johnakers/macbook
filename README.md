@@ -44,6 +44,6 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 17. ~~[asciinema](https://asciinema.org/) via Homebrew~~
 18. [Giphy Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
 19. [Unity](https://unity3d.com)
-20. [Aseprite]()
-21. ~~[Fusion360]()~~
-22. [Heroku Toolit]()
+20. [Aseprite](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj52cDc4bnOAhVI7WMKHbpZCYgQFggeMAA&url=http%3A%2F%2Fwww.aseprite.org%2F&usg=AFQjCNExMdw-b8GLabpEFBiXLpoyGwyYYA&sig2=gK5bF6Zz-Dovydh9QbXrQw)
+21. ~~[Fusion360](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj7vuDi4bnOAhVG5WMKHVuABBkQFggvMAA&url=http%3A%2F%2Fwww.autodesk.com%2Fproducts%2Ffusion-360%2Foverview&usg=AFQjCNFmAFML64--aKSkOtGMgxIiCatdgw&sig2=ZBSbg_wbXjV8XgbqKhJApA)~~
+22. [Heroku Toolbelt](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiyiazr4bnOAhUL7mMKHeE-BoEQFggvMAA&url=https%3A%2F%2Ftoolbelt.heroku.com%2F&usg=AFQjCNHcfl5kmTpnA5VOL769KH15iDN_Ug&sig2=dORhDHopkW4mRMA2ieTjYQ)
