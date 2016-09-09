@@ -21,12 +21,22 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 ```JS
 // Preferences
 {
-  "color_scheme": "Cache/ColorSublime/Tomorrow_Night_Eighties.tmTheme",
-  "font_face": "Source Code Pro",
-  "font_size": 11,
-  "save_on_focus_lost": true,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true
+	"color_scheme": "Cache/ColorSublime/DarkRoomNormal.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		110
+	],
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
 ```
 - [rbenv](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x) via Homebrew<br>
