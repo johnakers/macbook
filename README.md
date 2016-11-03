@@ -3,10 +3,10 @@ How I setup my 13" MacBook Air
 
 This isn't 100% the order of this as I'm doing this after setup, but its more or less it. This doesn't take too long to get up and running for Ruby/JavaScript development. I'm adding things as I go, where relevant.
 
-- [ ] [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [ ] [Chrome](https://www.google.com/chrome/browser/desktop/index.html)<br>
     -- Sign In + Gmail
 - [ ] [Spectacle](https://www.spectacleapp.com/)
-- [ ] [iTerm2](https://www.iterm2.com/)
+- [ ] [iTerm2](https://www.iterm2.com/)<br>
     -- Change font to `Source Code Pro` via `Preferences -> Profiles -> Text` (download link in #8)
 - [ ] [Caffiene](https://itunes.apple.com/us/app/caffeine/id411246225?mt=12)
 - [ ] [Homebrew](http://brew.sh/) (note: this requires Xcode)
