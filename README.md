@@ -16,8 +16,9 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 - [ ] [Sublime Text](https://www.sublimetext.com/) (note: I bought a license a long time ago)<br>
     -- [Set up 'subl' command](http://stackoverflow.com/questions/11889484/command-subl-from-terminal-dont-work/16390622#16390622)<br>
     -- Boxy Monokai Theme, via Package Control<br>
-    -- Bracket Highlighter Package, via Package Control<br>
     -- GitGutter Package, via Package Control<br>
+    -- Bracket Highlighter Package, via Package Control<br>
+    -- Git, via Package Control<br>
     -- [Adobe's Source Code Pro font](https://github.com/adobe-fonts/source-code-pro)<br>
     -- Below goes in `Preferences -> User`
 ```JS
@@ -43,8 +44,8 @@ This isn't 100% the order of this as I'm doing this after setup, but its more or
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "false"
 }
-
 ```
+
 - [ ] [rbenv](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x) via Homebrew<br>
     -- ensure your `PATH` is correct!<br>
     -- for now, global Ruby version set to 2.2.1
