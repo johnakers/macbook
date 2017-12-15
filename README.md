@@ -56,6 +56,7 @@ How I setup my 13" MacBook Air
 - [ ] [asciinema](https://asciinema.org/)
 - [ ] [Giphy Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
 - [ ] [Heroku Toolbelt](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiyiazr4bnOAhUL7mMKHeE-BoEQFggvMAA&url=https%3A%2F%2Ftoolbelt.heroku.com%2F&usg=AFQjCNHcfl5kmTpnA5VOL769KH15iDN_Ug&sig2=dORhDHopkW4mRMA2ieTjYQ)
+- [ ] [vim](http://brewformulas.org/Vim) via Homebrew
 - [ ] [vim-plug](https://github.com/junegunn/vim-plug)
 - `.vimrc`
 ```vim
