@@ -1,7 +1,5 @@
 # macbook
 
-How I setup my 13" MacBook Air
-
 ### General
 
 - [ ] [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
